@@ -1,0 +1,4 @@
+start_utc,end_utc,process_name,window_title,tab_title
+2026-11-02T09:00:00Z,2026-11-02T09:05:00Z,reader,Билеты.pdf,
+2026-11-02T09:05:00Z,2026-11-02T09:08:00Z,chrome,Лекция,Лекция
+2026-11-02T09:08:00Z,2026-11-02T09:10:00Z,reader,Билеты.pdf,

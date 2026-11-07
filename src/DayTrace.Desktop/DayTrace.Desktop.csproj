@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF><OutputType>WinExe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../DayTrace.Core/DayTrace.Core.csproj" />
+    <ProjectReference Include="../DayTrace.Windows/DayTrace.Windows.csproj" />
+    <ProjectReference Include="../DayTrace.Storage/DayTrace.Storage.csproj" />
+  </ItemGroup>
+</Project>
